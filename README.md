@@ -13,4 +13,4 @@
 
 *If you have any questions, please message me on telegram*: @freeman_nn 
 
-*My channel*: [Cyber_Boxing](https:/t.me/Cyber_Boxing {:target="_blank"})
+*My channel*: [Cyber_Boxing](https://t.me/Cyber_Boxing)
