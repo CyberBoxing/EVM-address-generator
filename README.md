@@ -1,4 +1,3 @@
-**
 
 ## EVM network wallet generator in Python.
 
